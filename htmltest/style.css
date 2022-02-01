@@ -225,7 +225,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../assets/images/home-img.jpeg) no-repeat;
+    background: url(https://bybabye.github.io/webCoffee/htmltest/assets/images/home-img.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
